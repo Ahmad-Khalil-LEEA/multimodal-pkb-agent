@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+sqlalchemy
+psycopg2-binary
+python-multipart
+pydantic
+langchain
+openai
+pdfplumber
+pillow
+tiktoken
+python-dotenv
